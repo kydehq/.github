@@ -94,7 +94,7 @@ KYDE is the infrastructure that follows from that question.
 Not a slogan we invented after the product.
 The product of a problem we are measuring.
 
-[Read the paper →](https://kyde.com/behavioral-drift)
+[Read the paper →](https://github.com/kydehq/behavioral-drift-detection/blob/main/paper/behavioral-drift-detection-survey.md)
 
 ## Start here
 
